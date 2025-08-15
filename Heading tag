@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Heading Tag Example</title>
+</head>
+<body>
 
+    <h1>Main Title: Welcome to My Website</h1>
+    <p>This is an example of a heading tag in HTML. The headings are shown from largest to smallest.</p>
+
+    <h2>Section 1: About Us</h2>
+    <p>We are a company dedicated to providing quality services.</p>
+
+    <h3>Subsection 1.1: Our Mission</h3>
+    <p>Our mission is to deliver the best products to our customers.</p>
+
+    <h4>Subsection 1.1.1: Core Values</h4>
+    <p>We value honesty, commitment, and customer satisfaction.</p>
+
+    <h5>Subsection 1.1.1.1: Honesty</h5>
+    <p>Honesty is the foundation of our work culture.</p>
+
+    <h6>Smallest Heading Example</h6>
+    <p>This is the smallest heading in HTML.</p>
+
+</body>
+</html>
