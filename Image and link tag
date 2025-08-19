@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>Welcome to HTML</h1>
+  <p>This is my first paragraph in HTML.</p>
+<img src="image.jpg" alt="Sample Image" width="300"><br>
+<a href="https://www.google.com">Visit Google</a>
+</body>
+</html>
